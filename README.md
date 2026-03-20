@@ -47,14 +47,38 @@ Built for speed, scalability, and developer productivity.
 
 ## 📸 Screenshots
 
-> *Add your screenshots here*
+### Landing Page
 
-```
-/screenshots
-  ├── dashboard.png
-  ├── endpoint_discovery.png
-  ├── security_analysis.png
-```
+![Landing Page](screenshots/landing_page.png)
+
+### Login
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Pricing
+
+![Pricing](screenshots/pricing.png)
+
+
+### Project Deployment
+
+![Project Deployment](screenshots/project_deployment.png)
+
+### Project Workspace
+
+![Project Workspace](screenshots/project_workspace.png)
+
+### Endpoints
+
+![Endpoints](screenshots/endpoints.png)
+
+### Profile
+
+![Profile](screenshots/profile.png)
 
 ---
 
